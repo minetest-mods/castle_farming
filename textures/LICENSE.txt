@@ -1,0 +1,11 @@
+--------------------------------------------
+
+16 px textures based on Castle mod
+original textures by Philipner
+
+License Textures: Napiophelios  - CC-BY-SA 3.0
+
+-castle_hide.png
+-castle_straw_bale.png
+
+--------------------------------------------
