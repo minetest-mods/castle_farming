@@ -20,8 +20,7 @@ minetest.register_node("castle_farming:bound_straw", {
 
 minetest.register_node("castle_farming:straw_dummy", {
 	description = S("Training Dummy"),
-	tiles = {"castle_straw_bale.png"},
-	--inventory_image = "castle_tapestry_inv.png",
+	tiles = {"castle_straw_dummy.png"},
 	groups = {choppy=4, flammable=1, oddly_breakable_by_hand=3},
 	sounds = default.node_sound_leaves_defaults(),
 	drawtype = "nodebox",
@@ -32,7 +31,7 @@ minetest.register_node("castle_farming:straw_dummy", {
 		fixed = {
 			{-0.25, -0.5, -0.125, 0, 0.1875, 0.125}, -- right_leg
 			{0, -0.5, -0.125, 0.25, 0.1875, 0.125}, -- left_leg
-			{-0.25, 0.1875, -0.125, 0.25, 0.875, 0.125}, -- torso
+			{-0.25, 0.1875, -0.1875, 0.25, 0.875, 0.125}, -- torso
 			{0.25, 0.1875, -0.125, 0.5, 0.875, 0.125}, -- left_arm
 			{-0.5, 0.1875, -0.125, -0.25, 0.875, 0.125}, -- right_arm
 			{-0.25, 0.875, -0.25, 0.25, 1.3125, 0.1875}, -- head
