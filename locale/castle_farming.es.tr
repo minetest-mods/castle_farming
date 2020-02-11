@@ -1,0 +1,15 @@
+# textdomain: castle_farming
+
+# Español
+# Copyright (C) 2017 Carlos Barraza
+# This file is distributed under the same license as the PACKAGE package.
+# Carlos Barraza <carlosbarrazaes@gmail.com>, 2017.
+
+#: hides.lua:9
+Hides=Escondite
+
+#: straw.lua:13
+Bound Straw=Paja amarrada
+
+#: straw.lua:22
+Training Dummy=Maniqui de Entrenamiento

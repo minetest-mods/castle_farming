@@ -1,0 +1,16 @@
+# textdomain: castle_farming
+
+# Brazilian Portuguese
+# Copyright (C) 2017 Caio Roberto
+# This file is distributed under the same license as the castle_farming package.
+# Caio Roberto <caiorrs@gmail.com>, 2017.
+#
+
+#: hides.lua:9
+Hides=Esconde-se
+
+#: straw.lua:13
+Bound Straw=Palha Amarrada
+
+#: straw.lua:22
+Training Dummy=Vaca Parada de Madeira (para Laço)
